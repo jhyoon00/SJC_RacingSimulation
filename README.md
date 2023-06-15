@@ -1,11 +1,10 @@
 # SJC_RacingSimulation
 
-We will be making a simple racing simulation game.
+We will be making a simple **racing simulation game**. <br>
 
-Team members (add your name below):
-JH Yoon
+### Team members (add your name below):
+- JH Yoon
+- 
 
-
-
-
-Communication will be done through Whatsapp.
+<br>
+Communication will be done through Whatsapp. Welcome to the team!
