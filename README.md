@@ -6,6 +6,7 @@ We will be making a simple **racing simulation game**. <br>
 - JH Yoon
 - Figo Wu
 - Abraham Chandafa
+- Sudikshya Pant
 
 <br>
 Communication will be done through Whatsapp. Welcome to the team!
