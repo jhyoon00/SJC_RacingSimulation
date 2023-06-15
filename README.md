@@ -1,4 +1,4 @@
-# SJC_RacingSimulation
+# Racing Simulation Game
 
 We will be making a simple **racing simulation game**. <br>
 
