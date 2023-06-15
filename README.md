@@ -19,7 +19,7 @@ Communication will be done through Whatsapp. Welcome to the team!
 The player controls a sports car racer. This is not a racing game, i.e. the player doesn't control the racer during a race. Instead, the player has control over the racer's decisions: which car to buy, which equipment to install or upgrade, which skills to train, which technicians to hire, which tournaments to compete in and using which car, etc. The game is essentially about making smart decisions to eventually become a successful racer.
 
 ### Interface
-Below is a preview of how the home screen might look:
+Below is a preview of how the home screen might look once the game is complete:
 ![interface outline](https://github.com/jhyoon00/SJC_RacingSimulation/assets/77221627/ada529c2-031f-470e-acc0-20148cde1393)
 The sections highlighted in _YELLOW_ are in-game **objects**. The sections highlighted in _GREEN_ are **actions**, meaning clicking them will allow the player to interact, such as entering a new window.
 
@@ -53,6 +53,9 @@ Most of the work will be divided into two types: **Interface Design** and **Game
 | Interface Design | Game Logic |
 | -------- | -------- |
 | JH | JH |
+| DH | DH |
+| Sudikshya | Sudikshya |
+| Figo | Figo |
 
 <br>
 Good luck!
