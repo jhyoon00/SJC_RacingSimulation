@@ -2,7 +2,7 @@
 
 ## About the Project
 
-We will be making a simple **racing simulation game**. By simulation, I don't mean first-person simulation games like _Euro Truck Simulator_, but rather decision-making simulation games like _The Sims_ or _Football Manager_.
+We will be making a simple **racing simulation game**. By simulation, we don't mean first-person simulation games like _Euro Truck Simulator_, but rather decision-making simulation games like _The Sims_ or _Football Manager_.
 <br>
 
 **Team members:**
@@ -46,3 +46,6 @@ The actions available in the home screen are the following:
 - **Settings:** Clicking the bar brings player to the **Settings** window, where the player can change settings regarding interface, sound, etc.
     
 ## Responsibilites and Work Distribution
+For now, we are looking to use python's pygame library to code. JH will write most of the main.py file. There will be many functions available for you to write, so feel free to take responsibility to write some of them. However, make sure you know what you are doing, and also make sure you write a lot of comments so others can read your code! <br>
+
+Most of the work will be divided into two types: **Interface** and **Game Logic**.
