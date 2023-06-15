@@ -53,8 +53,45 @@ We will obviously begin with a more simplified version of the game, and build up
 1. Create a text-based, simpler version of the game with minimal actions and objects
 2. Create visual interface
 3. Add more objects and actions to improve game
+<br>
 
+A simpler version of the game will possibly involve 4 different windows:
 
+### 1. Home
+![home](https://github.com/jhyoon00/SJC_RacingSimulation/assets/77221627/e81a6a84-a64b-49e7-8c56-43b037918d45)
+The main window where the game is played. Player can view current money, date, and upcoming race (objects are highlighted in yellow). Actions include **Garage**, **Tournaments**, and 'Skip to next day' (highlighted in green). 'Skip to next day' becomes 'Begin race' when there is a race that day.
+
+### 2. Garage
+![garage](https://github.com/jhyoon00/SJC_RacingSimulation/assets/77221627/7b7800d8-7819-4591-9dbf-4cb5bd4275ca)
+Window where player can view cars. Player can purchase, upgrade, and select which cars to use for the upcoming race.
+
+### 3. Tournaments
+![tournaments](https://github.com/jhyoon00/SJC_RacingSimulation/assets/77221627/27ebb2a7-9c2f-44ad-b87b-feb042b060e1)
+Window where player can view upcoming tournaments and their information. Player can choose which tournaments to register in.
+  
+### 4. Race
+![race](https://github.com/jhyoon00/SJC_RacingSimulation/assets/77221627/227d0335-4d8e-475c-b226-864e30cd7390)
+Window that is entered when race begins. Shows brief outcome of the race and the prize that player receives.
+
+<br>
+Simply put, we will first aim to create this version of the game above by 1. using text-based interface 2. replacing it with real interface 3. adding more aspects to the game to complete it.
+
+### Things to add later
+Some ideas for things to add once we have the basic game include:
+- Player name
+- Player design (character)
+- More car options, with more details
+- Car design
+- More upgrades & detailed upgrades
+- New object: Driving skill
+- New object: Vehicle familiarity
+- Calendar Window: A window where player can view upcoming events visually
+- Office Window: A window where player can make new kinds of decisions such as signing contracts with teams, sponsors, hiring new technicians, etc.
+- More tournaments
+- Training Track Window: A window where player can improve racer's driving skills
+- Settings Window: A window where player can customize settings such as sound / save or exit game
+- Starting Window: A window that opens once game is started, allowing player to input name
+- ... and more! Feel free to suggest new ideas.
 
 ## Responsibilites and Work Distribution
 For now, we are looking to use python's pygame library to code. JH will write most of the main.py file. There will be many functions available for you to write, so feel free to take responsibility to write some of them. However, make sure you know what you are doing, and also make sure you write a lot of comments so others can read your code! <br>
@@ -68,6 +105,8 @@ Most of the work will be divided into two types: **Interface Design** and **Game
 | DH | DH |
 | Sudikshya | Sudikshya |
 | Figo | Figo |
-
 <br>
+
+Everything mentioned above is merely an outline, and everything is susceptible to change if there are good ideas. You are always welcome to give new suggestions on where to bring this project - so please share!<br>
+
 Good luck!
