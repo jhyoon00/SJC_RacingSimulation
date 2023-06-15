@@ -48,4 +48,11 @@ The actions available in the home screen are the following:
 ## Responsibilites and Work Distribution
 For now, we are looking to use python's pygame library to code. JH will write most of the main.py file. There will be many functions available for you to write, so feel free to take responsibility to write some of them. However, make sure you know what you are doing, and also make sure you write a lot of comments so others can read your code! <br>
 
-Most of the work will be divided into two types: **Interface** and **Game Logic**.
+Most of the work will be divided into two types: **Interface Design** and **Game Logic**. <br>
+### Responsibilities
+| Interface Design | Game Logic |
+| -------- | -------- |
+| JH | JH |
+
+<br>
+Good luck!
